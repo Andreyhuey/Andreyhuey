@@ -4,8 +4,6 @@
 
 🔭 I’m currently working with EduglobeC as a front end developer ..
 
-🌱 I’m currently learning software engineering, so look forward to seeing Shell scripts, C programs and python code.
-
 🤔 I’m looking for help with getting a job as a front end developer in a gaming company in the United States
 
 💬 I love running, playing basketball, playing videos games & watching animations, anime, mediaeval movies.
