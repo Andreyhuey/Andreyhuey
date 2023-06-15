@@ -4,11 +4,11 @@
 
 🔭 I’m currently working with EduglobeC as a front end developer ..
 
-🤔 I need help a job as a front end developer in a gaming company in the United States
+🤔 I need help getting a job as a front end developer in a gaming company in the United States
 
 💬 I love running, playing basketball, playing videos games & watching animations, anime, mediaeval movies.
 
-📫 You can reach me by sharing me an email on andreyhuey777@gmail.com
+📫 To get in touch with me, you can reach me at andreyhuey777@gmail.com.
 
 
 
