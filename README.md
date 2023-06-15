@@ -4,7 +4,7 @@
 
 🔭 I’m currently working with EduglobeC as a front end developer ..
 
-🤔 I’m looking for help with getting a job as a front end developer in a gaming company in the United States
+🤔 I need help a job as a front end developer in a gaming company in the United States
 
 💬 I love running, playing basketball, playing videos games & watching animations, anime, mediaeval movies.
 
