@@ -4,9 +4,9 @@
 
 🔭 I’m currently working with EduglobeC as a front end developer ..
 
-🤔 I need help getting a job as a front end developer in a gaming company in the United States
+🤔 Here's a link to my [portfolio](https://andreyhuey.github.io/portfolio/)
 
-💬 I love running, playing basketball, playing videos games & watching animations, anime, mediaeval movies.
+💬 I love running, playing basketball, videos games & watching animations, anime & mediaeval movies.
 
 📫 To get in touch with me, you can reach me at andreyhuey777@gmail.com.
 
