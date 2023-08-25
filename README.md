@@ -2,7 +2,7 @@
 
 ## About Me
 
-🔭 I’m currently working with EduglobeC as a front end developer ..
+🔭 I’m currently a freelance front end developer ..
 
 🤔 Here's a link to my [portfolio](https://andreyhuey.github.io/portfolio/)
 
