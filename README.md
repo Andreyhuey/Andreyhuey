@@ -2,7 +2,7 @@
 
 ## About Me
 
-🔭 I’m currently a freelance front end developer ..
+🔭 I am a front end developer
 
 🤔 Here's a link to my [portfolio](https://andreyhuey.github.io/portfolio/)
 
