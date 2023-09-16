@@ -6,7 +6,7 @@
 
 🤔 Here's a link to my [portfolio](https://andreyhuey.github.io/portfolio/)
 
-💬 I love running, playing basketball, videos games & watching animations, anime & mediaeval movies.
+💬 I love playing basketball, videos games, running, watching horror, animations, anime & mediaeval movies.
 
 📫 To get in touch with me, you can reach me at andreyhuey777@gmail.com.
 
