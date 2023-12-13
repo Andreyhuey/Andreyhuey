@@ -2,7 +2,7 @@
 
 ## About Me
 
-🔭 I am a front end developer
+🔭 A Software Engineer With Front End Web Development Focus
 
 🤔 Here's a link to my [portfolio](https://andreyhuey.github.io/portfolio/)
 
