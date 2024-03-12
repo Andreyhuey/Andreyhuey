@@ -1,8 +1,6 @@
-# Hi there 👋
+# Hi there, I'm Andrey 👋
 
-## About Me
-
-🔭 A Software Engineer With Front End Web Development Focus
+🔭 A Software Engineer Specialized in Typescript & Node.js
 
 🤔 Here's a link to my [portfolio](https://andreyhuey.github.io/portfolio/)
 
