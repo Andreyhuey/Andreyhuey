@@ -1,6 +1,6 @@
 # Hi there, I'm Andrey 👋
 
-🔭 A Software Engineer Specialized in Typescript & Node.js
+🔭 A Full stack software engineer specialized in the M.E.R.N & NextJs stack
 
 🤔 Here's a link to my [portfolio](https://andreyhuey.github.io/portfolio/)
 
