@@ -8,12 +8,10 @@ Here's a link to my [andreyhuey.github.io/portfolio](https://andreyhuey.github.i
 
 ## Statistics
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Andreyhuey&)
-
-![](https://github-readme-stats.vercel.app/api?username=Andreyhuey&show_icons=true&theme=ambient_gradient)
-
+![](https://github-readme-stats.vercel.app/api?username=Andreyhuey&show_icons=true&theme=ambient_gradient) ![](https://github-readme-streak-stats.herokuapp.com/?user=Andreyhuey&)
 
 ## Languages and tools
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Andreyhuey&show_icons=true&locale=en&layout=compact&lang_count=8)
 
 ![html](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/html.svg) ![](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/bootstrap.svg) ![](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/tailwindcss.svg) ![](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/javascript.svg)![](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/typescript.svg)![](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/react.svg)![](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/redux.svg)![](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/expressjs.svg)
