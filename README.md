@@ -10,7 +10,7 @@ Here's a link to my [andreyhuey.github.io/portfolio](https://andreyhuey.github.i
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Andreyhuey&)
 
-![](https://github-readme-stats.vercel.app/api?username=Andreyhuey&show)
+![](https://github-readme-stats.vercel.app/api?username=Andreyhuey&show_icons=true&theme=ambient_gradient)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Andreyhuey&show_icons=true&locale=en&layout=compact)
 
