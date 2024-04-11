@@ -2,8 +2,6 @@
 
 # Hi there, I'm Andrey 👋
 
-A Full stack software engineer specialized in the M.E.R.N & NextJs stack
-
 Step into my world of code and creativity, where pixels come alive and ideas turn into digital realities. I'm thrilled to have you here, exploring my skills, projects, and passion for pragmatic technology.
 
 Here's a link to my [Portfolio](https://andreyhuey.github.io/portfolio/)
