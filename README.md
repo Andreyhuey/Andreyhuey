@@ -8,7 +8,7 @@ Here's a link to my [andreyhuey.github.io/portfolio](https://andreyhuey.github.i
 
 ## Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Andreyhuey&show_icons=true&theme=ambient_gradient) ![](https://github-readme-streak-stats.herokuapp.com/?user=Andreyhuey&)
+![](https://github-readme-stats.vercel.app/api?username=Andreyhuey&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ![](https://github-readme-streak-stats.herokuapp.com/?user=Andreyhuey&)
 
 ## Languages and Tools
 
