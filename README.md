@@ -18,21 +18,40 @@ Eager to explore my portfolio [andreyhuey.github.io/portfolio](https://andreyhue
 
 ### Front End
 
-![html](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/html.svg) ![bootstrap](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/bootstrap.svg) ![tailwindcss](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/tailwindcss.svg) ![javascript](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/javascript.svg)![typescript](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/typescript.svg)![react](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/react.svg)![redux](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/redux.svg)![nextjs](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/nextjs.svg)
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/html.svg" width="70" height="70" alt="html" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/bootstrap.svg" width="70" height="70" alt="bootstrap" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/tailwindcss.svg" width="70" height="70" alt="tailwindcss" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/javascript.svg" width="70" height="70" alt="javascript" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/typescript.svg" width="70" height="70" alt="typescript" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/react.svg" width="70" height="70" alt="react" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/redux.svg" width="70" height="70" alt="redux" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/nextjs.svg" width="70" height="70" alt="nextjs" />
 
 ### Back End
 
-![javascript](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/javascript.svg)![typescript](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/typescript.svg)
-![expressjs](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/expressjs.svg)![nodejs](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/nodejs.svg)![Next](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/nextjs.svg)
-![php](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/php.svg)![python](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/python.svg)![Flask](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/flask.svg) ![Django](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/django.svg)
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/javascript.svg" width="70" height="70" alt="javascript" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/typescript.svg" width="70" height="70" alt="typescript" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/expressjs.svg" width="70" height="70" alt="expressjs" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/nodejs.svg" width="70" height="70" alt="nodejs" /> 
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/nextjs.svg" width="70" height="70" alt="Next" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/php.svg" width="70" height="70" alt="php" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/python.svg" width="70" height="70" alt="python" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/flask.svg" width="70" height="70" alt="Flask" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/django.svg" width="70" height="70" alt="Django" />
 
 ### Databases
 
-![mongodb](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/mongodb.svg)![mysql](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/mysql.svg)![postgres](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/postgres.svg)
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/mongodb.svg" width="70" height="70" alt="mongodb" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/mysql.svg" width="70" height="70" alt="mysql" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/postgres.svg" width="70" height="70" alt="postgres" />
 
 ### DevTools
 
-![prisma](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/prisma.svg)![graphql](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/graphql.svg)![docker](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/docker.svg)![git](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/git.svg)![code](https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/visual-studio.svg)
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/prisma.svg" width="70" height="70" alt="prisma" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/graphql.svg" width="70" height="70" alt="graphql" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/docker.svg" width="70" height="70" alt="docker" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/git.svg" width="70" height="70" alt="git" />
+<img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/visual-studio.svg" width="70" height="70" alt="code" />
 
 ## Hobbies
 
