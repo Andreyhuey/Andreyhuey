@@ -4,8 +4,6 @@
 
 A tech enthusiast weaving dreams into code! Step into my world where creativity meets functionality, and every line of code tells a story. As a software engineer, I'm fueled by a passion for crafting seamless digital experiences, whether it's through pixel-perfect front-end designs or robust back-end solutions.
 
-Join me on this journey through the realms of technology, where I blend the artistry of front-end development with the precision of back-end engineering. From building sleek user interfaces to architecting scalable server systems, I thrive on the dynamic challenges that come with shaping the digital landscape.
-
 Eager to explore my portfolio and witness the magic unfold? Swing by here [andreyhuey.github.io/portfolio](https://andreyhuey.github.io/portfolio/)👋 and let's embark on this adventure together!
 
 ## Statistics
