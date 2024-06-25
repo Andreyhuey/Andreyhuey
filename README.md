@@ -30,10 +30,6 @@ Eager to explore my portfolio and witness the magic unfold? Swing by here [andre
 
 <img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/prisma.svg" width="50" height="50" alt="prisma" /><img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/graphql.svg" width="50" height="50" alt="graphql" /><img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/docker.svg" width="50" height="50" alt="docker" /><img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/git.svg" width="50" height="50" alt="git" /><img src="https://raw.githubusercontent.com/Andreyhuey/portfolio/main/src/assets/tools/visual-studio.svg" width="50" height="50" alt="code" />
 
-## Hobbies
-
-💬 I love playing basketball, videos games, running, watching horror, animations, anime & mediaeval movies.
-
 ## Connect
 
 📫 To get in touch with me, you can reach me at andreyhuey777@gmail.com.
