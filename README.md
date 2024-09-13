@@ -32,4 +32,4 @@ Eager to explore my portfolio and witness the magic unfold? Swing by here [andre
 
 ## Connect
 
-📫 To get in touch with me, you can reach me at andreyhuey777@gmail.com.
+📫 you can reach me at andreyhuey777@gmail.com.
