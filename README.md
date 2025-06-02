@@ -4,7 +4,7 @@
 
 A tech enthusiast weaving dreams into code! Step into my world where creativity meets functionality, and every line of code tells a story. As a software engineer, I'm fueled by a passion for crafting seamless digital experiences, whether it's through pixel-perfect front-end designs or robust back-end solutions.
 
-Eager to explore my portfolio and witness the magic unfold? Swing by here [andreyhuey.vercel.app/](https://andreyhuey.com)👋
+Eager to explore my portfolio and witness the magic unfold? Swing by here [andreyhuey.com/](https://andreyhuey.com)👋
 
 ## Statistics
 
@@ -22,7 +22,7 @@ Eager to explore my portfolio and witness the magic unfold? Swing by here [andre
 
 <img src="https://www.andreyhuey.com/assets/tools/javascript.svg" width="50" height="50" alt="javascript" /><img src="https://www.andreyhuey.com/assets/tools/typescript.svg" width="50" height="50" alt="typescript" /><img src="https://www.andreyhuey.com/assets/tools/expressjs.svg" width="50" height="50" alt="expressjs" /><img src="https://www.andreyhuey.com/assets/tools/nodejs.svg" width="50" height="50" alt="nodejs" /> <img src="https://www.andreyhuey.com/assets/tools/nextjs.svg" width="50" height="50" alt="Next" /><img src="https://www.andreyhuey.com/assets/tools/php.svg" width="50" height="50" alt="php" /><img src="https://www.andreyhuey.com/assets/tools/python.svg" width="50" height="50" alt="python" />
 
-### Databases
+### Database Management
 
 <img src="https://www.andreyhuey.com/assets/tools/mongodb.svg" width="50" height="50" alt="mongodb" /><img src="https://www.andreyhuey.com/assets/tools/mysql.svg" width="50" height="50" alt="mysql" /><img src="https://www.andreyhuey.com/assets/tools/postgres.svg" width="50" height="50" alt="postgres" />
 
