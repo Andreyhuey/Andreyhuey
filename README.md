@@ -4,7 +4,7 @@
 
 A tech enthusiast weaving dreams into code! Step into my world where creativity meets functionality, and every line of code tells a story. As a software engineer, I'm fueled by a passion for crafting seamless digital experiences, whether it's through pixel-perfect front-end designs or robust back-end solutions.
 
-Eager to explore my portfolio and witness the magic unfold? Swing by here [andreyhuey.com/](https://andreyhuey.com)👋
+Eager to explore my portfolio and witness the magic unfold? Swing by here [andreyhuey.com](https://andreyhuey.com)👋
 
 ## Statistics
 
